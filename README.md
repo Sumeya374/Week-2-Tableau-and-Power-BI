@@ -16,5 +16,4 @@ PowerBI-
 - How to work with visuals in PowerBI to summarise data
 - How to create dashboards in PowerBI
   
-
-![EMSI JobChange UK Dashboard](EMSI_JobChange_UK_Dashboard.png)
+<img src="EMSI_JobChange_UK_Dashboard.png" alt="EMSI JobChange UK Dashboard" width="500">
